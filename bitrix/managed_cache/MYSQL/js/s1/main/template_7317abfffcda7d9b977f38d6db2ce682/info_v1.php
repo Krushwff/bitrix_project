@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/main/assets/js/vendor/modernizr-2.8.3.min.js" => "154373898715514","/local/templates/main" => "1717770885288",]; ?>
